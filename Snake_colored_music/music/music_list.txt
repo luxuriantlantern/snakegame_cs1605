@@ -1,0 +1,8 @@
+按钮的移动moveButton
+按钮的选择selectButton
+蛇的吃到食物或者获得生命getFood_Life
+蛇的扣血getHurt
+蛇的死亡dead
+简单模式背景音乐bgm_easy
+困难模式背景音乐bgm_hard
+主菜单背景音乐topMenu
